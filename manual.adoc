@@ -14,17 +14,23 @@ The following demonstrate the basic navigation.
 === Login Page
 Begin by entering your login credentials given to you by your manager. 
 
-image::login.jpg[Login]
+image::login.JPG[Login]
 
 === Channels Page
 This is the *channels* page!
 
-image::channels.jpg[Channels]
+image::channels.JPG[Channels]
 
 From here you can Sign Out using the link at the top
 
-image::signout.jpg[Sign Out]
+image::signout.JPG[Sign Out]
 
 You can also use the *Search Bar* from here.
 
-image::search.jpg[Search Bar]
+image::search.JPG[Search Bar]
+
+=== Create New Post
+
+From this page you can create a *New Post* by entering the _Post Title_ and _Description_
+
+image::newpost.JPG[New Post] 
