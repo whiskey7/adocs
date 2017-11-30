@@ -5,7 +5,7 @@
 :revdate: 30NOV2017
 :revremark: Draft
 
-:imagesdir: ./blob/master/img/
+:imagesdir: ./img/
 :toc:
 
 == Basic Navigation
