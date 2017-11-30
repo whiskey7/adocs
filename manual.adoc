@@ -1,0 +1,30 @@
+= Forum Manual
+:author: John Fisher
+:email: fisher.john.dw@gmail.com
+:revnumber: 1.1
+:revdate: 30NOV2017
+:revremark: Draft
+
+:imagesdir: ./img
+:toc:
+
+== Basic Navigation
+The following demonstrate the basic navigation.
+
+=== Login Page
+Begin by entering your login credentials given to you by your manager. 
+
+image::login.jpg[Login]
+
+=== Channels Page
+This is the *channels* page!
+
+image::channels.jpg[Channels]
+
+From here you can Sign Out using the link at the top
+
+image::signout.jpg[Sign Out]
+
+You can also use the *Search Bar* from here.
+
+image::search.jpg[Search Bar]
