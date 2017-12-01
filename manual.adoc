@@ -59,4 +59,4 @@ image::postnav.JPG[Post Navigation]
 
 You can also _edit_ or _delete_ your comment from here. 
 
-image::commnentnav.JPG[Edit a Comment]
+image::commentnav.JPG[Edit a Comment]
