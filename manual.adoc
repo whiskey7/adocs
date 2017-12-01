@@ -1,13 +1,12 @@
 = Forum Manual
 :author: John Fisher
 :email: fisher.john.dw@gmail.com
-:revnumber: 1.1
+:revnumber: 1.2
 :revdate: 30NOV2017
 :revremark: Draft
 
-:imagesdir: ./img/
+:imagesdir: ./img
 :toc:
-
 == Basic Navigation
 This is the *Basic Navigation* for the Forums site
 
@@ -29,8 +28,35 @@ You can also use the *Search Bar* from here.
 
 image::search.JPG[Search Bar]
 
+Lastly you can create a new _channel_ by clicking the link
+
+image::newchannel.JPG[New Channel]
+
+=== Create New Channel
+
+Enter the name of the channel in the space provided and click _Create Channel_.
+
+image::createchannel.JPG[Create Channel]
+
 === Create New Post
 
 From this page you can create a *New Post* by entering the _Post Title_ and _Description_
 
 image::newpost.JPG[New Post] 
+
+=== Create Comment
+
+When view a post within a channel, you reply to that post by leaving a *comment*. 
+Enter your _comment_ and then click the _Create Comment_ button. 
+
+image::comment.JPG[Create Comment]
+
+From this page you can also navigate _back_, _edit_ your *post*, or _delete_ it entirely.
+
+image::postnav.JPG[Post Navigation]
+
+=== Edit a Comment
+
+You can also _edit_ or _delete_ your comment from here. 
+
+image::commnentnav.JPG[Edit a Comment]
